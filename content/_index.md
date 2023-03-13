@@ -5,7 +5,7 @@ enableToc: false
 
 What's up! This is my website for the currently-in-progress DnD campaign that I may or may not be running in the near future. If you're here, it's probably because I sent you the link, or you found me on [GitHub](https://github.com/parallelspec/parallelspec.github.io). In any case, this is can be treated as a compendeium of everything in the campaign - with the exception of private, not-yet-seen encounters of course!
 
-The website will change quite a bit as I get more comfortable with some CSS formatting. At the moment, it is pretty much bare-bones and just does what I want it to do. Let me know if there's any bugs/issues on the site. I made this site using [Quartz](https://github.com/jackyzha0/quartz), and currently using [Obsidian](https://obisdian.md) as my main text editor and planner. 
+The website will change quite a bit as I get more comfortable with some CSS formatting. At the moment, it is pretty much bare-bones and just does what I want it to do. Let me know if there's any bugs/issues on the site. I made this site using [Quartz](https://github.com/jackyzha0/quartz), and currently using [Obsidian](https://obsidian.md) as my main text editor and planner. 
 There wil be still some example pages from the original respoitory that I haven't removed yet - mostly there as a cheat-sheet for markdown formatting! 
 
 ***Enjoy***!
