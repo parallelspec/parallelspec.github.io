@@ -12,6 +12,7 @@ You'll want to start here:
 - [Characters](/tags/characters)
 - [Calendar/Days](/tags/calendar)
 - [World](/tags/world)
+
 Or altenatively, search up whatever you want in the top right corner. 
 
 ***Enjoy***!
