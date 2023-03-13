@@ -13,3 +13,5 @@ As we continue through the days, we will be writing out the events that unfold h
 
 As for who we are - I'm just a scribe sent to document your events. Don't worry about who I am, or where I am - you'll **never** spot me. 
 
+Onwards to [[notes/days/Day 2 - TBD|Day 2!]]
+
