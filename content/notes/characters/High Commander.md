@@ -1,6 +1,9 @@
 ---
 title: "High Commander"
+tags:
+- characters
 ---
+
 
 
 The High Commander (HC) is the de-facto leader, ruler, dictator, president, tyrant, God, of Sariel. Since the very beginning of time, or what we know of it, the HC system has been in effect on Sariel.

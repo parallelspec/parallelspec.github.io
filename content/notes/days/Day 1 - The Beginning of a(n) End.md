@@ -1,5 +1,7 @@
 ---
 title: "Day 1 - The Beginning of a(n) End"
+tags:
+- calendar
 ---
 
 
@@ -11,4 +13,3 @@ As we continue through the days, we will be writing out the events that unfold h
 
 As for who we are - I'm just a scribe sent to document your events. Don't worry about who I am, or where I am - you'll **never** spot me. 
 
-#calendar 
