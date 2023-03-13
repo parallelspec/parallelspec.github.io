@@ -1,17 +1,11 @@
+# parallelspec.github.io website
+
+This is the home of the website you've probably been using (hopefully...) to find out stuff about the campaign. I would highly suggest to avoid reading too much content on here, since there's some stuff in development. 
+
+--
+P-SPEC
+
 # Quartz
-
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
-
-1. Extremely fast natural-language search
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support and Admonition-style callouts
-5. Support for both Markdown Links and Wikilinks
-
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
 🔗 Get Started: https://quartz.jzhao.xyz/
 
 ![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
