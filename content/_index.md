@@ -8,6 +8,12 @@ What's up! This is my website for the currently-in-progress DnD campaign that I 
 The website will change quite a bit as I get more comfortable with some CSS formatting. At the moment, it is pretty much bare-bones and just does what I want it to do. Let me know if there's any bugs/issues on the site. I made this site using [Quartz](https://github.com/jackyzha0/quartz), and currently using [Obsidian](https://obsidian.md) as my main text editor and planner. 
 There wil be still some example pages from the original respoitory that I haven't removed yet - mostly there as a cheat-sheet for markdown formatting! 
 
+You'll want to start here:
+- [Characters](/tags/characters)
+- [Calendar/Days](/tags/days)
+- [World](/tags/world)
+Or altenatively, search up whatever you want in the top right corner. 
+
 ***Enjoy***!
 1. Extremely fast natural-language I DONT CARE WORK! [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
