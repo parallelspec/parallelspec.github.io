@@ -14,7 +14,7 @@ enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/parallelspec/parallelspec.github.io/tree/hugo/content
 search:
-  enableSemanticSearch: true
+  enableSemanticSearch: false
   operandApiKey: "ywp6wea34wo0an1674r4gzukowfvvyc5ng15"
   operandIndexId: "e01ppuoqq1sx"
 description:
