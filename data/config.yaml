@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/parallelspec/parallelspec.github.io/tree/hugo/content
 search:
@@ -18,8 +18,7 @@ search:
   operandApiKey: "ywp6wea34wo0an1674r4gzukowfvvyc5ng15"
   operandIndexId: "e01ppuoqq1sx"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  parallelspec, parallelspec.
 page_title:
   "parallelspecverse"
 links:
