@@ -2,6 +2,7 @@
 title: "High Commander"
 ---
 
+
 The High Commander (HC) is the de-facto leader, ruler, dictator, president, tyrant, God, of Sariel. Since the very beginning of time, or what we know of it, the HC system has been in effect on Sariel.
 
 The HC wears a crown, made out of [[Xertanium]], an ultra-rare mineral that has yet to be found on Sariel. Rumours suggest it's found in the other heavenly bodies around Sariel, but I don't really know how trustworthy it is. The crown itself is infused into the skull of the HC, unable to be pried out without certain death of the HC. 
