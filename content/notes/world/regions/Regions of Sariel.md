@@ -12,7 +12,7 @@ There is terrain and some settlements, but they have been removed for clarity.
 
 The left region, [[notes/world/regions/Renova|Renova]], is ruled by the [[notes/world/entities/Prima Lux|Prima Lux]] company. Prima Lux's main business is selling agricultural products to the rest of the world, given the vast fertile land they have. 
 
-The top right region, [[notes/world/regions/Mora]], is owned by the [[New Triton]] corporation. Their main business is minerals - being the only region with access to mega mineral deposits (northern side of Mora in grey). Holding a monopoly on minerals, the wealthy citizens of Mora enjoy perhaps the greatest living standards on Sariel. 
+The top right region, [[notes/world/regions/Mora||Mora]], is owned by the [[New Triton]] corporation. Their main business is minerals - being the only region with access to mega mineral deposits (northern side of Mora in grey). Holding a monopoly on minerals, the wealthy citizens of Mora enjoy perhaps the greatest living standards on Sariel. 
 
 The bottom right region, [[Santeaux]], is controlled by the [[LaAmour]] family. It is by far the worst region to live in, with the vast majority of the region being muddled in toxic gingseng sludge, a direct result of the [[notes/world/events/2002 Gingseng Wars|2002 Gingseng Wars]]. The LaAmour family is the last remaining family stemming from the [[notes/world/entities/Old Aristocracy]] era, some 5,000 years ago. 
 

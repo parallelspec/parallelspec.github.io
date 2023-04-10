@@ -32,7 +32,13 @@ A couple of minutes go by. The relentless rainfall continued to fall on our shou
 
 > ...for every breath we take...could be the last we make...
 
-An odd line stemming from a conversation I overheard from the corner of my ears. 
+An odd line stemming from a conversation I overheard from the corner of my ears. A female voice, could not be more than thirty. A sudden crash of waves follows. Lightning strikes. The perfect time for a murder, in the midst of the moonless night. 
+
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHH...
+
+A brilliant French scream forced upon us. No doubt, the captain. We all rushed towards the top deck. His lifeless body, swinging on top of the wheel. 
+
+-- TO BE CONTINUED
 
 
 On the ship there were six persons of interest: Cartius, Manny, Nana, Mr. Rose, Sir Battler, and myself; the Great Detective Beanius. The rest of the crew, totalling twelve, do not play a part in this story, my faithful friend. However, summing them up, we thus have **19** members on board, including the French captain. 
@@ -42,10 +48,12 @@ On the ship there were six persons of interest: Cartius, Manny, Nana, Mr. Rose, 
 
 characters
 * Detective Beanius - cannot be murderer or accomplice (willingly) ever! The main character
-* Cartius
-* Manny
-* Nana
-* Mr. Rose 
-* Sir Battler
+* Cartius - Sir Battler's butler, 34 
+	* Cartius used to be the butler of the French captain. The captain wasn't a good master. Cartius developed type 3 diabetes as a direct result of the captain's treatment towards him. 
+* Penny - ship cook, 24
+	* Penny's been on the ship since she was 15. An orphan, her only friend 
+* Nana - adventuerer, 20 (the only notable woman on this trip)
+* Mr. Rose - businessman, unknown but looks around late 40/early 50s
+* Sir Battler - sponsor of the trip, 65
 
 
