@@ -39,5 +39,5 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 ### Map
 - Test
-<iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/bibos/clgao149h000r01nzpmd79xwa.html?title=false&access_token=pk.eyJ1IjoiYmlib3MiLCJhIjoiY2xnYW1ycGptMWozbTNxcWxwNXZ2YjZ6ZyJ9.Kg_IG68DWqd-x7K8cbpzUg&zoomwheel=false#5.03/20.71/21.88" title="LeMap-copy" style="border:none;"></iframe>
+<iframe width='100%' height='720px' src="https://api.mapbox.com/styles/v1/bibos/clgbsajqp000m01rm9uk47dgx.html?title=false&access_token=pk.eyJ1IjoiYmlib3MiLCJhIjoiY2xnYW1ycGptMWozbTNxcWxwNXZ2YjZ6ZyJ9.Kg_IG68DWqd-x7K8cbpzUg&zoomwheel=false#5.62/20.431/10.305" title="Blank" style="border:none;"></iframe>
 
