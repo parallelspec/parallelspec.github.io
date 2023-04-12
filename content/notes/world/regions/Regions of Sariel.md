@@ -5,10 +5,9 @@ tags:
 - regions
 ---
 
-Sariel consists of three, mega-large landmasses that were formed over time
-![[notes/images/roughsariel.png]]
-Above: rough sketch of Sariel, flat projection (but the world itself is not flat!)
-There is terrain and some settlements, but they have been removed for clarity.
+Sariel consists two main island masses in a specific area on the planet.
+<iframe width='100%' height='450px' src="https://api.mapbox.com/styles/v1/bibos/clgbsajqp000m01rm9uk47dgx.html?title=false&access_token=pk.eyJ1IjoiYmlib3MiLCJhIjoiY2xnYW1ycGptMWozbTNxcWxwNXZ2YjZ6ZyJ9.Kg_IG68DWqd-x7K8cbpzUg&zoomwheel=false#5.62/20.431/10.305" title="Blank" style="border:none;"></iframe>
+	Above: rough map of Sariel as we know it. The dark blue area is unexplored ocean. The capital cities are designated in a big red circle. Zoom out!
 
 The left region, [[notes/world/regions/Renova|Renova]], is ruled by the [[notes/world/entities/Prima Lux|Prima Lux]] company. Prima Lux's main business is selling agricultural products to the rest of the world, given the vast fertile land they have. 
 
