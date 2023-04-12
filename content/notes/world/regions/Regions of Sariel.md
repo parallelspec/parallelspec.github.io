@@ -20,3 +20,4 @@ There are many small islands of varying sizes; most are uninhabited since they a
 The one which I will reveal to you is called [[K'mani]]. It's the big-ish desert island south of Renova, west of Santeaux. This area is special, for it's where the crown of the [[notes/characters/High Commander|High Commander]] was first found millennia ago. Right now, the tribe of the [[notes/characters/clans/Novi|Novi]] people live there, and refuse to contact any outsiders.
 
 Sariel does have ice polar caps, both north and south. These are not illustrated as they do not serve any function in this situation. 
+
