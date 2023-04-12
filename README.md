@@ -1,13 +1,6 @@
-# parallelspec.github.io website
+# website
 
-This is the home of the website you've probably been using (hopefully...) to find out stuff about the campaign. I would highly suggest to avoid reading too much content on here, since there's some stuff in development. 
+This website is home to my Obsidian stuff - public ones at least. I'm using [Hugo](https://gohugo.io) as my website framework and [Quartz](
 
 --
 P-SPEC
-
-# Quartz
-🔗 Get Started: https://quartz.jzhao.xyz/
-
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
