@@ -15,4 +15,4 @@ See flowchart for more details.![[notes/images/testdasd.drawio (1).png]]
 
 **SecretEnding1**
 *"WhereWereWe"*
-The crew sucessfully passes all the checks. You continue to head towards your home planet of Earth. 
+The crew sucessfully passes all the checks. You continue to head towards your home planet of Earth. All is good. The Era has Ended. 
