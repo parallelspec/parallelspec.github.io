@@ -8,8 +8,7 @@ Merticus is what happens when you combine stupidity with stupidly good luck - a 
 
 Merticus is a human bard with a spy background. 
 
-
-	Merticus is a human bard with a spy background, owing from his many years working in the intelligence department.
+Merticus is a human bard with a spy background, owing from his many years working in the intelligence department.
 	* Not much is known, if not at all about his childhood and upbringing. Virtually all government records were expunged once he became Chief Spy Officer 5 years ago. 
 	* Very likely we will never recover these records 
 	* He is around 172cm tall, skinny build, with long wavy hair
@@ -18,6 +17,7 @@ Merticus is a human bard with a spy background.
 	* Don't trust a thing this man says 
 	* Is he even a man??? 
 	* ???
+
 
 <h2>Statistics</h2> 
 
