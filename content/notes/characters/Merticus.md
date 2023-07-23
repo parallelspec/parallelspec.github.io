@@ -7,7 +7,7 @@ tags:
 Merticus is what happens when you combine stupidity with stupidly good luck - a former spy of the Santos Legion who clumsily rose up the ranks to become Sultanate of [[notes/world/regions/Santeaux|Santeaux]]. The exact specifics on his climb to greatness is not known, but he is known to be able to charm even the coldest heart - including those who don't have a heart. 
 
 Merticus is a human bard with a spy background. 
-
+%%
 Merticus is a human bard with a spy background, owing from his many years working in the intelligence department.
 	* Not much is known, if not at all about his childhood and upbringing. Virtually all government records were expunged once he became Chief Spy Officer 5 years ago. 
 	* Very likely we will never recover these records 
@@ -17,7 +17,7 @@ Merticus is a human bard with a spy background, owing from his many years workin
 	* Don't trust a thing this man says 
 	* Is he even a man??? 
 	* ???
-
+%%
 
 <h2>Statistics</h2> 
 
@@ -30,7 +30,7 @@ HP: 50
 AC: 6
 
 <h2>Actions</h2> 
-*Clueless Whisper* | lvl X 
+Clueless Whisper | lvl X 
 - Merticus sends a whisper into a living mind. The target affected can always understand what Merticus says. There is a 45% chance that the target becomes stunned from confusion. Saving throw: 15 INT/15 WIS. If not stunned, then nothing else happens.
 
 CopyCat | lvl X
