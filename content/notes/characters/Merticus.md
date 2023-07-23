@@ -21,7 +21,7 @@ Merticus is a human bard with a spy background, owing from his many years workin
 
 <h2>Statistics</h2> 
 
-|STR|DEX|CON|INT|WIS|CHA|
+|STR|DEX|CON|INT |WIS|CHA|
 |:--|:--|:--|:--|:--|:--|
 |8|16|14|14|13|20|
 |(-1)|(+3)|(+2)|(+2)|(+1)|(+5)|
