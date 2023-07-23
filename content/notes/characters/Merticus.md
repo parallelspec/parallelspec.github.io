@@ -30,7 +30,7 @@ HP: 50
 AC: 6
 
 <h2>Actions</h2> 
-<i>Clueless Whisper</i> | lvl X 
+*Clueless Whisper* | lvl X 
 - Merticus sends a whisper into a living mind. The target affected can always understand what Merticus says. There is a 45% chance that the target becomes stunned from confusion. Saving throw: 15 INT/15 WIS. If not stunned, then nothing else happens.
 
 CopyCat | lvl X
